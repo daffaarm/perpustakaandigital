@@ -1,10 +1,7 @@
 # Digital Library
 Selamat Datang di Perpustakaan Digital
 
-Perpustakaan ini disusun oleh :
-Nama  : Daffa Anugrah Ramadhan
-NIM   : 13040124120034
-Kelas : A
+Perpustakaan ini disusun oleh Daffa Anugrah Ramadhan_13040124120034_Kelas A
 
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi

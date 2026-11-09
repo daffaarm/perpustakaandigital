@@ -16,4 +16,5 @@ Berikut ini adalah Koleksi yang dimiliki:
 9. [Animal Farm](ebook/Animal Farm_George Orwell.pdf) - George Orwell (1945)
 10. [Teka-Teki Rumah Aneh](ebook/Teka-Teki Rumah Aneh_Uketsu.pdf) - Uketsu (2021)
 11. [The Alchemist](ebook/The Alchemist_Paulo Coelho.pdf) - Paulo Coelho (1998)
+12. [Ringkasan UGC PATI](ebook/Ringkasan UGC PATI.pdf) - Daffa Anugrah Ramadhan (2026)
 *Powered by GitHub Pages*

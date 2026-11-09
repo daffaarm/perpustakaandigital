@@ -1,5 +1,11 @@
 # Digital Library
 Selamat Datang di Perpustakaan Digital
+
+Perpustakaan ini disusun oleh :
+Nama  : Daffa Anugrah Ramadhan
+NIM   : 13040124120034
+Kelas : A
+
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
 1. [Librarianship and the Philosophy of Information](ebook/Librarianship and the Philosophy of Information.pdf) – Ken R. Herold, dkk (2001)
